@@ -1,2 +1,0 @@
-# ContextsCombiner
-Created with CodeSandbox
